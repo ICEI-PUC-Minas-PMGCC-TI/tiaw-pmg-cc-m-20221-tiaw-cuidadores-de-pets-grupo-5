@@ -105,7 +105,13 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público-alvo de nosso projeto será algo bem abrangente em vários aspectos, na parte dos cliente que irão procurar o seviço
+temos que ter em mente que poderá ser pessoas de várias faixas etárias, escolaridades diversas, faixa de renda também não definida
+pois não é um serviço muito caro (tendo em vista o caso médio, onde o cliente não precisa do serviço casualmente), classe social
+também diversa pois vemos uma quantidade de pessoas com pet enorme independente da classe social, localização será mais focada em 
+residentes em capitais e regiões metropolitanas. Na parte dos prestadores de serviço, a faixa etária será pessoas maiores de 18
+anos, escolaridades diversas, faixa de renda irrelevante também, visto que nosso projeto poderá também ser uma forma de renda para
+muitas pessoas, localização igual a de nossos clientes.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
