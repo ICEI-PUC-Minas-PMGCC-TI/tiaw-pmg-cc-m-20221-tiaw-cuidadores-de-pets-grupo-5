@@ -55,21 +55,12 @@
 
 # Introdução
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   O mundo está mudando e as nossas necessidades também.
+   Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.
+Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!
+   Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
+Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você!
+   Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
 
 
 
@@ -239,12 +230,39 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+### Requisitos não Funcionais [Vinícius]
+------------------------------------------------------------------
+|ID     | Descrição do Requisito                     | Prioridade |
+------------------------------------------------------------------
+|RNF-001| O sistema deve ser responsivo para rodar em| ALTA       |
+|       | um dispositivos móveis                     |            |
+|RNF-002| Sistema deve ser multiplataforma           | ALTA       |
+|       | (Windows/Linux/etc)                        |            |
+|RNF-003| Seleção e introdução de serviços na        | ALTA       |
+|       | página inicial                             |            |
+|RNF-004| Sistema de desativação de conta (exceto    | ALTA       |
+|       | donos de pet) por inatividade após         |            |
+|       | [3] meses sem uso                          | ALTA       |
+|RNF-005| Disponibilidade para os usuários           | ALTA       |
+|       | customizarem os seus perfis a              |            |
+|       | qualquer momento                           |            |
+|RNF-006| Padronização das cores do site             | MÉDIA      |
+|RNF-007| Deve processar requisições do usuário em   | MÉDIA      |
+|       | no máximo 3s                               |            |
+|RNF-008| Limitar tempo máximo de resposta do site   | MÉDIA      |
+|       | (120s) antes de pedir para atualizar a     |            |
+|       | página novamente                           |            |
+|RNF-009| Histórico de serviços anteriores           | MÉDIA      | 
+|       | (Cuidadores que já presteram serviço)      |            |
+|RNF-010| Calcular automaticamente o valor           | MÉDIA      |
+|       | recomendado pelo serviço, com os dados do  |            |
+|       | tamanho, quantidade e necessidades do pet  |            |
+|RNF-011| Verificação e confirmação mensal pessoais  | MÉDIA      |
+|       | do usuário e dos colaboradores             |            |
+|RNF-012| Fixar o HUD superior com atalhos e campo   | BAIXA      |
+|       | de busca                                   |            |
+|RNF-014| Processar login dos usuários em menos de 5s| BAIXA      |
+------------------------------------------------------------------
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
