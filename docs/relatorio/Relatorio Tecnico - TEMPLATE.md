@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  PetFriends Cuidadores de Pets  ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da Computação ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......   ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Gabriel da Silva Martins
+> - João Panzera
+> - Samuel Panzera 
+> - Sarah 
+> - Vinícius Simões
 
 # Estrutura do Documento
 
@@ -73,6 +74,20 @@
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
+
+Problema 
+
+Pesquisas têm mostrado um aumento do número de brasileiros contratando serviços pets, dos mais diferentes tipos, em sites e aplicativos digitais. Pode se observar pelas pesquisas que esse Mercado cresce a cada ano e pelo comportamento do consumidor moderno que têm voltado a sua atenção para a valorização do bem estar, e conforto se seu pets. Novas opções de serviços para esse nincho têm surgido inclusive o de Pet Sitter e de hospedagem. Um problema comum na vida de donos de pets é a difilculdade de onde e com quem deixar o seu pet sob cuidados, em razão de necessidade enquanto estiver fora. Os motivos podem ser dos mais variados : viagem de férias, viagem a trabalho, compromissos agendados, emergências…
+
+A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos).
+
+Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. 
+
+
+
+
+
 
 ## Objetivos
 
@@ -188,12 +203,22 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais
+### Requisitos Funcionais [Gabriel]
+------------------------------------------------------------------
+|ID    | Descrição do Requisito                      | Prioridade |
+|------|---------------------------------------------|------------|
+|RF-001| Cadastro de Usuário                         | ALTA       | 
+|RF-002| Cadastros de Colaboradores                  | ALTA       |
+|RF-003| Cadastro de Pedido                          | ALTA       |
+|RF-004| Login Usuário                               | ALTA       |
+|RF-005| Login Colaborador                           | ALTA       |
+|RF-006| Sistema de Busca de Pet Sitter e Hospedagem | ALTA       |
+|RF-007| Armazenamento de dados por web Local Storage| ALTA       |
+|RF-008| Perfil Usuário                              | ALTA       |
+|RF-009| Perfil Pet Sitter                           | ALTA       |
+|RF-010| Perfil de Anfitrião                         | ALTA       |
+------------------------------------------------------------------
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -225,14 +250,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
-## Restrições
+## Restrições [Gabriel]
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+----------------------------------------------------------------
+|ID| Restrição                                                  |
+|--|------------------------------------------------------------|    
+|01| O projeto deverá ser entregue até o final do semestre      |
+|02| Não pode ser desenvolvido um módulo de backend             |
+|03| Não é possível monitorar usuários reais e fakes            |
+|04| Linguagem do site Português                                |
+|05| Serviço restrito a região metropolitana de Belo Horizonte  |
+|06| Necessário o conexão com internet                          |
+|07| Restringindo a dispositivos desktop e mobile               |
+-----------------------------------------------------------------
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
