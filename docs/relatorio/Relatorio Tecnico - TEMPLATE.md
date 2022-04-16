@@ -233,7 +233,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais [Vinícius]
 ------------------------------------------------------------------
 |ID     | Descrição do Requisito                     | Prioridade |
-------------------------------------------------------------------
+|-------|--------------------------------------------|------------|
 |RNF-001| O sistema deve ser responsivo para rodar em| ALTA       |
 |       | um dispositivos móveis                     |            |
 |RNF-002| Sistema deve ser multiplataforma           | ALTA       |
@@ -261,7 +261,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |       | do usuário e dos colaboradores             |            |
 |RNF-012| Fixar o HUD superior com atalhos e campo   | BAIXA      |
 |       | de busca                                   |            |
-|RNF-014| Processar login dos usuários em menos de 5s| BAIXA      |
+|RNF-013| Processar login dos usuários em menos de 5s| BAIXA      |
 ------------------------------------------------------------------
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
