@@ -125,20 +125,6 @@ independente da classe social, localização será mais focada em residentes em 
 de serviço, a faixa etária será pessoas maiores de 18 anos, escolaridades diversas, faixa de renda irrelevante também, visto que nosso 
 projeto poderá também ser uma forma de renda para muitas pessoas, localização igual a de nossos clientes.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
@@ -200,7 +186,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais [Gabriel]
+### Requisitos Funcionais
 ------------------------------------------------------------------
 |ID    | Descrição do Requisito                      | Prioridade |
 |------|---------------------------------------------|------------|
@@ -218,7 +204,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 
-### Requisitos não Funcionais [Vinícius]
+### Requisitos não Funcionais
 ------------------------------------------------------------------
 |ID     | Descrição do Requisito                     | Prioridade |
 |-------|--------------------------------------------|------------|
@@ -252,29 +238,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-013| Processar login dos usuários em menos de 5s| BAIXA      |
 ------------------------------------------------------------------
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
-## Restrições [Gabriel]
+## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 ----------------------------------------------------------------
@@ -288,15 +252,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |06| Necessário o conexão com internet                          |
 |07| Restringindo a dispositivos desktop e mobile               |
 -----------------------------------------------------------------
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 # Projeto de Interface
 
@@ -355,56 +310,34 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
 ## Divisão de Papéis
 
-----------Documentação----------
-Introdução: Vinícius Simões Viana
+###Documentação
+ -introdução Vinícius Simões Viana
+ -Problemas  Gabriel da Silva Martins
+ -Objetivos  Sarah Almeida França
+ -Justificativa Samuel Panzera Chagas
+ -Publico-alvo João Bosco Chagas Panzera
 
-Problema: Gabriel da Silva Martins
+###Especificações do projeto 
+ -Personas e mapas de empatia   Samuel Panzera Chagas
+ -Historias de Usuarios   (?) 
+  -Requisitos Funcionais   Gabriel da Silva Martins
+  -Requisitos não funcionais   Vinícius Simões Viana
+ -Restrições   Gabriel da Silva Martins
 
-Objetivo do projeto: Sarah Almeida França
+###Projeto de interface
+-User Flow João Bosco Chagas Panzera
+-Wireframes Gabriel da Silva Martins e Vinícius Simões Viana
 
-Justificativa: Samuel Panzera Chagas
+###Metodologia 
+-Resumo e Ferramentas Samuel Panzera Chagas
+-Divisão de papeis Vinícius Simões Viana
+-Controle de versão Samuel Panzera Chagas
 
-Público- Alvo: João Bosco Chagas Panzera
--------------------------------------
+###Matriz CSD; entrevistas; criação de personas/mapa de empatia(MIRO):
 
-##### MIRO
-Matriz CSD; entrevistas; criação de personas/mapa de empatia:
-
-Gabriel da Silva Martins
-
-João Bosco Chagas Panzera
-
-Samuel Panzera Chagas
-
-Sarah Almeida França
-
-Vinícius Simões Viana
-
-
-##### Figma/GitHub
-Projeto de interface: Vinícius Simões Viana
- 
-Fluxo do usuário: João Bosco Chagas Panzera
-
-Wireframes: Gabriel da Silva Martins
-
-Protótipo Interativo: xxxxxx
-
-
-##### Metodología
-
-
-> Divisões de papeis: Vinícius Simões Viana
-> Controle de Versão: 
-> Ferramentas: Samuel Panzera Chagas
-> 
-
-
-
-
+Gabriel da Silva Martins, João Bosco Chagas Panzera, Samuel Panzera Chagas, <br>Sarah Almeida França, Vinícius Simões Viana
 
 ## Ferramentas
-
 
 
 | Ambiente  | Plataforma              |Link de Acesso |
@@ -412,7 +345,7 @@ Protótipo Interativo: xxxxxx
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB6EDa8=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5 | 
 |Hospedagem do site | GitHub Pages |  https://icei-puc-minas-pmgcc-ti.github.io/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/ | 
-|Protótipo Interativo | Figma | https://www.figma.com/file/RgngHnrjgzD5h9qhmV7TNs/Wireframes?node-id=0%3A1 | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/RgngHnrjgzD5h9qhmV7TNs/Wireframes?node-id=32%3A5 | 
 |Organização de tarefas | Trello | https://trello.com/b/dm7YJpHc/cuidadores-de-pets | 
 
 
@@ -433,36 +366,25 @@ Facilidade de comunicação com o github e com o repositorio para o envio instat
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Controle foi feito a partir de 4 Branchs e 3 tags (relases) para o apontamento correto de erros
+>As issues serão tratadas a partir de numeros gerados em ordem (ex: #001,#002), será <br> 
+identificado para correção de eventuais problemas e será discutidas nas reuniões usando <br>
+as metodologias Scrum.
+>Serão 4 Branches dentre as quais: 
+ 
+ - `master`: versão estável já testada do software
+ - `unstable`: versão já testada do software, porém instável
+ - `testing`: versão em testes do software
+ - `dev`: versão de desenvolvimento do software
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
 > Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
+> etiquetas (conforme padronização do curso):
 > 
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
 >
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
+
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
