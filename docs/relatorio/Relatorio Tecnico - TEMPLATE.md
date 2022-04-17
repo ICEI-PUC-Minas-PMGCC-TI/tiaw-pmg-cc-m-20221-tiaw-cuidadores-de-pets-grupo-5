@@ -355,48 +355,81 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+----------Documentação----------
+Introdução: Vinícius Simões Viana
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Problema: Gabriel da Silva Martins
+
+Objetivo do projeto: Sarah Almeida França
+
+Justificativa: Samuel Panzera Chagas
+
+Público- Alvo: João Bosco Chagas Panzera
+-------------------------------------
+
+##### MIRO
+Matriz CSD; entrevistas; criação de personas/mapa de empatia:
+
+Gabriel da Silva Martins
+
+João Bosco Chagas Panzera
+
+Samuel Panzera Chagas
+
+Sarah Almeida França
+
+Vinícius Simões Viana
+
+
+##### Figma/GitHub
+Projeto de interface: Vinícius Simões Viana
+ 
+Fluxo do usuário: João Bosco Chagas Panzera
+
+Wireframes: Gabriel da Silva Martins
+
+Protótipo Interativo: xxxxxx
+
+
+##### Metodología
+
+
+> Divisões de papeis: Vinícius Simões Viana
+> Controle de Versão: 
+> Ferramentas: Samuel Panzera Chagas
+> 
+
+
+
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB6EDa8=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5 | 
+|Hospedagem do site | GitHub Pages |  https://icei-puc-minas-pmgcc-ti.github.io/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/ | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/RgngHnrjgzD5h9qhmV7TNs/Wireframes?node-id=0%3A1 | 
+|Organização de tarefas | Trello | https://trello.com/b/dm7YJpHc/cuidadores-de-pets | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
+
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+> - Visual Studio Code
+Ferramenta escolhida pela familiaridade da equipe em resolver problemas de codigo nessa plataforma,<br> também por ser a principal ferramenta de trabalho do mercado hoje em dia.<br>
+> - Discord
+Foi escolhido devido a organização de Chat, Prints, e possibilidade de reuniões diarias.
+<br>
+> - Figma
+Facil organização e implementação da parte visual de forma a entender melhor como sera colocado no projeto
+
+> - GitHub Pages
+Facilidade de comunicação com o github e com o repositorio para o envio instataneo de um 
+
+
 
 ## Controle de Versão
 
