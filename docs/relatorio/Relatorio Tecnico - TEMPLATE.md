@@ -286,27 +286,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Divisão de Papéis
 
 ### Documentação
- - introdução Vinícius Simões Viana
- - Problemas  Gabriel da Silva Martins
- - Objetivos  Sarah Almeida França
- - Justificativa Samuel Panzera Chagas
- - Publico-alvo João Bosco Chagas Panzera
+ - introdução: Vinícius Simões Viana
+ - Problemas:  Gabriel da Silva Martins
+ - Objetivos:  Sarah Almeida França
+ - Justificativa: Samuel Panzera Chagas
+ - Publico-alvo: João Bosco Chagas Panzera
 
 ### Especificações do projeto 
- - Personas e mapas de empatia  Samuel Panzera Chagas
- - Historias de Usuarios   (?) 
-  - Requisitos Funcionais   Gabriel da Silva Martins
-  - Requisitos não funcionais   Vinícius Simões Viana
- - Restrições   Gabriel da Silva Martins
+ - Personas e mapas de empatia:  Samuel Panzera Chagas
+ - Historias de Usuarios:   (?) 
+  - Requisitos Funcionais:  Gabriel da Silva Martins
+  - Requisitos não funcionais:  Vinícius Simões Viana
+ - Restrições:   Gabriel da Silva Martins
 
 ### Projeto de interface
-- User Flow João Bosco Chagas Panzera
-- Wireframes Gabriel da Silva Martins e Vinícius Simões Viana
+- User Flow: João Bosco Chagas Panzera
+- Wireframes: Gabriel da Silva Martins e Vinícius Simões Viana
 
 ### Metodologia 
-- Resumo e Ferramentas Samuel Panzera Chagas
-- Divisão de papeis Vinícius Simões Viana
-- Controle de versão Samuel Panzera Chagas
+- Resumo e Ferramentas: Samuel Panzera Chagas
+- Divisão de papeis: Vinícius Simões Viana
+- Controle de versão: Samuel Panzera Chagas
 
 ### Matriz CSD; entrevistas; criação de personas/mapa de empatia(MIRO):
 
@@ -326,16 +326,14 @@ Gabriel da Silva Martins, João Bosco Chagas Panzera, Samuel Panzera Chagas, <br
 
 > As ferramentas empregadas no projeto são:
 > 
- - Visual Studio Code
+ - Visual Studio Code <br>
 Ferramenta escolhida pela familiaridade da equipe em resolver problemas de codigo nessa plataforma,<br> também por ser a principal ferramenta de trabalho do mercado hoje em dia.<br>
- - Discord
-Foi escolhido devido a organização de Chat, Prints, e possibilidade de reuniões diarias.
-<br>
- - Figma
-Facil organização e implementação da parte visual de forma a entender melhor como sera colocado no projeto<br>
-
- - GitHub Pages
-Facilidade de comunicação com o github e com o repositorio para o envio instataneo de um 
+ - Discord <br>
+Foi escolhido devido a organização de Chat, Prints, e possibilidade de reuniões diarias. <br>
+ - Figma <br>
+Facil organização e implementação da parte visual de forma a entender melhor como sera colocado no projeto <br>
+ - GitHub Pages <br>
+Facilidade de comunicação com o github e com o repositorio para o envio instataneo de uma atualização no projeto
 
 
 
