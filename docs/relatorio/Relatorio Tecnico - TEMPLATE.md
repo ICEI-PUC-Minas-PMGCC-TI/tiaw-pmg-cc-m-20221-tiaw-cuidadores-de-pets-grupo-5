@@ -286,27 +286,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Divisão de Papéis
 
 ### Documentação
- -introdução Vinícius Simões Viana
- -Problemas  Gabriel da Silva Martins
- -Objetivos  Sarah Almeida França
- -Justificativa Samuel Panzera Chagas
- -Publico-alvo João Bosco Chagas Panzera
+ - introdução Vinícius Simões Viana
+ - Problemas  Gabriel da Silva Martins
+ - Objetivos  Sarah Almeida França
+ - Justificativa Samuel Panzera Chagas
+ - Publico-alvo João Bosco Chagas Panzera
 
 ### Especificações do projeto 
- -Personas e mapas de empatia   Samuel Panzera Chagas
- -Historias de Usuarios   (?) 
-  -Requisitos Funcionais   Gabriel da Silva Martins
-  -Requisitos não funcionais   Vinícius Simões Viana
- -Restrições   Gabriel da Silva Martins
+ - Personas e mapas de empatia  Samuel Panzera Chagas
+ - Historias de Usuarios   (?) 
+  - Requisitos Funcionais   Gabriel da Silva Martins
+  - Requisitos não funcionais   Vinícius Simões Viana
+ - Restrições   Gabriel da Silva Martins
 
 ### Projeto de interface
--User Flow João Bosco Chagas Panzera
--Wireframes Gabriel da Silva Martins e Vinícius Simões Viana
+- User Flow João Bosco Chagas Panzera
+- Wireframes Gabriel da Silva Martins e Vinícius Simões Viana
 
 ### Metodologia 
--Resumo e Ferramentas Samuel Panzera Chagas
--Divisão de papeis Vinícius Simões Viana
--Controle de versão Samuel Panzera Chagas
+- Resumo e Ferramentas Samuel Panzera Chagas
+- Divisão de papeis Vinícius Simões Viana
+- Controle de versão Samuel Panzera Chagas
 
 ### Matriz CSD; entrevistas; criação de personas/mapa de empatia(MIRO):
 
