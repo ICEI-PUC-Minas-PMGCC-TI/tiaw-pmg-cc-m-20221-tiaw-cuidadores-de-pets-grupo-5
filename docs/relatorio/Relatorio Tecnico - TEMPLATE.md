@@ -113,19 +113,7 @@ Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O que foi essencial para o compreendimento e realização desse projeto foi entender a necessidade das pessoas em questão de custo e conforto do seu PET transformando em uma opção viavel, rapida e confiavel além também da alternativa de uma pessoa ter uma renda extra realizando serviços de cuidados PETs sem necessariamente ter a estrutura de um hotel de PET em casa, pensando também em publicos que precisam de deixar seu PET na casa de alguem ou precisar de cuidados em sua propria casa em compromissos que por exemplo, demandam viagem de ultima hora ou programada.  Com base nas pesquisas realizadas pelo proprio grupo foi confirmado toda a teoria por trás e a necessidade de se conectar com 2 publicos, aqueles que vão prestar o serviço e aqueles que vão contratar o serviço e aproximadamente 72% dos entrevistados preferem a visita de um PettSiter em sua casa devido ao conforto ja oferecido e por ja estar acostumado a tal ambien
 
 ## Público-Alvo
 
