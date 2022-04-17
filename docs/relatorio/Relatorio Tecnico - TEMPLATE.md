@@ -111,9 +111,6 @@ projeto poderá também ser uma forma de renda para muitas pessoas, localizaçã
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
 > personalizada todos os principais envolvidos com a solução almeja. 
