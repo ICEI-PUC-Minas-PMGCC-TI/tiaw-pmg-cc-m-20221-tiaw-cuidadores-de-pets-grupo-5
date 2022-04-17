@@ -1,22 +1,18 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`PetFriends Cuidadores de Pets`  
 
-......  PetFriends Cuidadores de Pets  ......
 
-`CURSO` 
+`Ciência da Computação` 
 
-......  Ciência da Computação ......
 
 ## Participantes
 
-......   ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
 > - Gabriel da Silva Martins
-> - João Panzera
-> - Samuel Panzera 
-> - Sarah 
-> - Vinícius Simões
+> - João Bosco Chagas Panzera
+> - Samuel Panzera Chagas
+> - Sarah Almeida França
+> - Vinícius Simões Viana
 
 # Estrutura do Documento
 
@@ -55,43 +51,22 @@
 
 # Introdução
 
-   O mundo está mudando e as nossas necessidades também.
-   Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.
-Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!
-   Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
-Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você!
-   Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
+   >O mundo está mudando e as nossas necessidades também.<br>
+   >Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
+Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!<br>
+   >Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
+Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você! <br>
+   >Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
 
 
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Pesquisas têm mostrado um aumento do número de brasileiros contratando serviços pets, dos mais diferentes tipos, em sites e aplicativos digitais. Pode se observar pelas pesquisas que esse Mercado cresce a cada ano e pelo comportamento do consumidor moderno que têm voltado a sua atenção para a valorização do bem estar, e conforto se seu pets. Novas opções de serviços para esse nincho têm surgido inclusive o de Pet Sitter e de hospedagem. Um problema comum na vida de donos de pets é a difilculdade de onde e com quem deixar o seu pet sob cuidados, em razão de necessidade enquanto estiver fora. Os motivos podem ser dos mais variados : viagem de férias, viagem a trabalho, compromissos agendados, emergências… <br>
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+>A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos). <br>
 
-
-Problema 
-
-Pesquisas têm mostrado um aumento do número de brasileiros contratando serviços pets, dos mais diferentes tipos, em sites e aplicativos digitais. Pode se observar pelas pesquisas que esse Mercado cresce a cada ano e pelo comportamento do consumidor moderno que têm voltado a sua atenção para a valorização do bem estar, e conforto se seu pets. Novas opções de serviços para esse nincho têm surgido inclusive o de Pet Sitter e de hospedagem. Um problema comum na vida de donos de pets é a difilculdade de onde e com quem deixar o seu pet sob cuidados, em razão de necessidade enquanto estiver fora. Os motivos podem ser dos mais variados : viagem de férias, viagem a trabalho, compromissos agendados, emergências…
-
-A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos).
-
-Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. 
+>Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br> 
 
 
 
@@ -380,13 +355,13 @@ as metodologias Scrum.
 > Quanto à gerência de issues, o projeto adota a seguinte convenção para
 > etiquetas (conforme padronização do curso):
 > 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
+ - `bugfix`: uma funcionalidade encontra-se com problemas
+ - `enhancement`: uma funcionalidade precisa ser melhorada
+ - `feature`: uma nova funcionalidade precisa ser introduzida
 
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+
+
+ ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
