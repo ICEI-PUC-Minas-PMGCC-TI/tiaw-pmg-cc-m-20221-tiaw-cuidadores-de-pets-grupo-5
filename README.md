@@ -5,11 +5,11 @@ Conectar Amantes de PETs que possam prestar serviços de cuidadores e pessoas qu
 
 ## Alunos integrantes da equipe
 
-> - Gabriel da Silva Martins
-> - João Bosco Chagas Panzera
-> - Samuel Panzera Chagas
-> - Sarah Almeida França
-> - Vinícius Simões Viana
+ - Gabriel da Silva Martins
+ - João Bosco Chagas Panzera
+ - Samuel Panzera Chagas
+ - Sarah Almeida França
+ - Vinícius Simões Viana
 
 ## Professores responsáveis
 
