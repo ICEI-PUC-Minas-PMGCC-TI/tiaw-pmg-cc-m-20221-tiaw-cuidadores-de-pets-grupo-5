@@ -14,7 +14,7 @@
  - Sarah Almeida França
  - Vinícius Simões Viana
 
-# Estrutura do Documento
+# SUMARIO
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
