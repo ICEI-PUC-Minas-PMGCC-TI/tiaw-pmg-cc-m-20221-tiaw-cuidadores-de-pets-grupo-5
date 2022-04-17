@@ -14,7 +14,7 @@
  - Sarah Almeida França
  - Vinícius Simões Viana
 
-# SUMARIO
+# Sumario
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
@@ -326,34 +326,34 @@ Gabriel da Silva Martins, João Bosco Chagas Panzera, Samuel Panzera Chagas, <br
 
 > As ferramentas empregadas no projeto são:
 > 
-> - Visual Studio Code
+ - Visual Studio Code
 Ferramenta escolhida pela familiaridade da equipe em resolver problemas de codigo nessa plataforma,<br> também por ser a principal ferramenta de trabalho do mercado hoje em dia.<br>
-> - Discord
+ - Discord
 Foi escolhido devido a organização de Chat, Prints, e possibilidade de reuniões diarias.
 <br>
-> - Figma
-Facil organização e implementação da parte visual de forma a entender melhor como sera colocado no projeto
+ - Figma
+Facil organização e implementação da parte visual de forma a entender melhor como sera colocado no projeto<br>
 
-> - GitHub Pages
+ - GitHub Pages
 Facilidade de comunicação com o github e com o repositorio para o envio instataneo de um 
 
 
 
 ## Controle de Versão
 
->Controle foi feito a partir de 4 Branchs e 3 tags (relases) para o apontamento correto de erros
->As issues serão tratadas a partir de numeros gerados em ordem (ex: #001,#002), será <br> 
+Controle foi feito a partir de 4 Branchs e 3 tags (relases) para o apontamento correto de erros
+As issues serão tratadas a partir de numeros gerados em ordem (ex: #001,#002), será <br> 
 identificado para correção de eventuais problemas e será discutidas nas reuniões usando <br>
 as metodologias Scrum.
->Serão 4 Branches dentre as quais: 
+Serão 4 Branches dentre as quais: 
  
  - `master`: versão estável já testada do software
  - `unstable`: versão já testada do software, porém instável
  - `testing`: versão em testes do software
  - `dev`: versão de desenvolvimento do software
 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas (conforme padronização do curso):
+ Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas (conforme padronização do curso):
 > 
  - `bugfix`: uma funcionalidade encontra-se com problemas
  - `enhancement`: uma funcionalidade precisa ser melhorada
