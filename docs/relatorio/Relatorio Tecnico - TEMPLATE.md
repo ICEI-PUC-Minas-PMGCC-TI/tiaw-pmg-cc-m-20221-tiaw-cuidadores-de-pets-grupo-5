@@ -8,11 +8,11 @@
 ## Participantes
 
 
-> - Gabriel da Silva Martins
-> - João Bosco Chagas Panzera
-> - Samuel Panzera Chagas
-> - Sarah Almeida França
-> - Vinícius Simões Viana
+ - Gabriel da Silva Martins
+ - João Bosco Chagas Panzera
+ - Samuel Panzera Chagas
+ - Sarah Almeida França
+ - Vinícius Simões Viana
 
 # Estrutura do Documento
 
@@ -51,22 +51,22 @@
 
 # Introdução
 
-   >O mundo está mudando e as nossas necessidades também.<br>
-   >Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
+   O mundo está mudando e as nossas necessidades também.<br>
+   Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
 Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!<br>
-   >Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
+   Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
 Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você! <br>
-   >Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
+   Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
 
 
 
 ## Problema
 
->Pesquisas têm mostrado um aumento do número de brasileiros contratando serviços pets, dos mais diferentes tipos, em sites e aplicativos digitais. Pode se observar pelas pesquisas que esse Mercado cresce a cada ano e pelo comportamento do consumidor moderno que têm voltado a sua atenção para a valorização do bem estar, e conforto se seu pets. Novas opções de serviços para esse nincho têm surgido inclusive o de Pet Sitter e de hospedagem. Um problema comum na vida de donos de pets é a difilculdade de onde e com quem deixar o seu pet sob cuidados, em razão de necessidade enquanto estiver fora. Os motivos podem ser dos mais variados : viagem de férias, viagem a trabalho, compromissos agendados, emergências… <br>
+Pesquisas têm mostrado um aumento do número de brasileiros contratando serviços pets, dos mais diferentes tipos, em sites e aplicativos digitais. Pode se observar pelas pesquisas que esse Mercado cresce a cada ano e pelo comportamento do consumidor moderno que têm voltado a sua atenção para a valorização do bem estar, e conforto se seu pets. Novas opções de serviços para esse nincho têm surgido inclusive o de Pet Sitter e de hospedagem. Um problema comum na vida de donos de pets é a difilculdade de onde e com quem deixar o seu pet sob cuidados, em razão de necessidade enquanto estiver fora. Os motivos podem ser dos mais variados : viagem de férias, viagem a trabalho, compromissos agendados, emergências… <br>
 
->A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos). <br>
+A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos). <br>
 
->Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br> 
+Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br> 
 
 
 
@@ -285,30 +285,30 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
 ## Divisão de Papéis
 
-###Documentação
+### Documentação
  -introdução Vinícius Simões Viana
  -Problemas  Gabriel da Silva Martins
  -Objetivos  Sarah Almeida França
  -Justificativa Samuel Panzera Chagas
  -Publico-alvo João Bosco Chagas Panzera
 
-###Especificações do projeto 
+### Especificações do projeto 
  -Personas e mapas de empatia   Samuel Panzera Chagas
  -Historias de Usuarios   (?) 
   -Requisitos Funcionais   Gabriel da Silva Martins
   -Requisitos não funcionais   Vinícius Simões Viana
  -Restrições   Gabriel da Silva Martins
 
-###Projeto de interface
+### Projeto de interface
 -User Flow João Bosco Chagas Panzera
 -Wireframes Gabriel da Silva Martins e Vinícius Simões Viana
 
-###Metodologia 
+### Metodologia 
 -Resumo e Ferramentas Samuel Panzera Chagas
 -Divisão de papeis Vinícius Simões Viana
 -Controle de versão Samuel Panzera Chagas
 
-###Matriz CSD; entrevistas; criação de personas/mapa de empatia(MIRO):
+### Matriz CSD; entrevistas; criação de personas/mapa de empatia(MIRO):
 
 Gabriel da Silva Martins, João Bosco Chagas Panzera, Samuel Panzera Chagas, <br>Sarah Almeida França, Vinícius Simões Viana
 
