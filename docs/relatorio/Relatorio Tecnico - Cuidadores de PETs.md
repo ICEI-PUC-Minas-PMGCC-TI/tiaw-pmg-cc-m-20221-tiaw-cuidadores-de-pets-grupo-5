@@ -105,6 +105,8 @@ projeto poderá também ser uma forma de renda para muitas pessoas, localizaçã
 
 ## Personas e Mapas de Empatia
 
+**TODAS AS PERSONAS FORAM CRIADAS A PARTIR DE ALGORITIMOS, PORTANTO NÃO EXISTE ESTAS PESSOAS, <BR>QUALQUER SEMELHANÇA É MERA COINCIDENCIA**
+
 <img src="images/Persona 1 (2).png">
 <img src="images/Persona 1.png">
 <img src="images/5.png">
