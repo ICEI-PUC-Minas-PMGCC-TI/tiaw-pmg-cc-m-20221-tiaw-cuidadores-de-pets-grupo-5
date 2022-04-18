@@ -69,26 +69,13 @@ A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet
 Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br> 
 
 
-
-
-
-
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desta forma, nós propomos uma site em que donos de pets e cuidadores poderão se encontrar de forma efetiva, o nosso trabalho procura realizar uma conexão entre os 2 usuários. Nessa plataforma, os donos solicitaram os serviços que desejam e os cuidadores terão as oportunidades que desejam. Aqui, em Pets Friends, os donos encontrarão pessoas qualificadas e confiáveis que olharão seus pets com os devidos cuidados e os cuidadores poderão realizar quais serviços se interessarem em torno de sua própria disponibilidade.
 
 ## Justificativa
 
-O que foi essencial para o compreendimento e realização desse projeto foi entender a necessidade das pessoas em questão de custo e conforto do seu PET transformando em uma opção viavel, rapida e confiavel além também da alternativa de uma pessoa ter uma renda extra realizando serviços de cuidados PETs sem necessariamente ter a estrutura de um hotel de PET em casa, pensando também em publicos que precisam de deixar seu PET na casa de alguem ou precisar de cuidados em sua propria casa em compromissos que por exemplo, demandam viagem de ultima hora ou programada.  Com base nas pesquisas realizadas pelo proprio grupo foi confirmado toda a teoria por trás e a necessidade de se conectar com 2 publicos, aqueles que vão prestar o serviço e aqueles que vão contratar o serviço e aproximadamente 72% dos entrevistados preferem a visita de um PettSiter em sua casa devido ao conforto ja oferecido e por ja estar acostumado a tal ambien
+O que foi essencial para o compreendimento e realização desse projeto foi entender a necessidade das pessoas em questão de custo e conforto do seu PET transformando em uma opção viavel, rapida e confiavel além também da alternativa de uma pessoa ter uma renda extra realizando serviços de cuidados PETs sem necessariamente ter a estrutura de um hotel de PET em casa, pensando também em publicos que precisam de deixar seu PET na casa de alguem ou precisar de cuidados em sua propria casa em compromissos que por exemplo, demandam viagem de ultima hora ou programada.  Com base nas pesquisas realizadas pelo proprio grupo foi confirmado toda a teoria por trás e a necessidade de se conectar com 2 publicos, aqueles que vão prestar o serviço e aqueles que vão contratar o serviço e aproximadamente 72% dos entrevistados preferem a visita de um PettSiter em sua casa devido ao conforto ja oferecido e por ja estar acostumado a tal ambiente
 
 ## Público-Alvo
 
@@ -153,6 +140,26 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
+-------------------------------------------------------------------------------------------------------
+|  Eu como 'persona'... |           quero/preciso...          |           para que/pois...             |
+|-----------------------|-------------------------------------|----------------------------------------|
+|     Martha Alves      | um cuidador que fique 1 final de    | possa relaxar e utilizar o tempo livre |
+|                       | semana por mês cuidando de seu pet  | para aprender novas coisas             |
+|-----------------------|-------------------------------------|----------------------------------------|
+|      Carla Leal       | um cuidador e veterinário tendo     | poder ir trabalhar tranquila sabendo   |
+|                       | experiência com surto de epilepsia  | que o pet está tendo companhia e sendo |
+|                       |                                     | bem tratado                            |
+|-----------------------|-------------------------------------|----------------------------------------|
+|      Pedro Costa      | um cuidador que fique cuidando de   | poder sair mais com os amigos          |
+|                       | seus pets                           |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|    Helena Medeiros    | ganhar um dinheiro extra fazendo um | diminua a preocupação com questão      | 
+|                       | trabalho que já está acostumada a   | financeira                             |
+|                       | realizar                            |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|   Roberta Oliveira    | ter mais trabalho cuidando de pets  | ajudar os pets e ter mais experiência  |
+--------------------------------------------------------------------------------------------------------
 
 ## Requisitos
 
