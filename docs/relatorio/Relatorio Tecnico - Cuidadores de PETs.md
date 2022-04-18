@@ -97,7 +97,7 @@ projeto poderá também ser uma forma de renda para muitas pessoas, localizaçã
  
 # Especificações do Projeto
 
-Personas feitas a partir do exmeplo dado como Templete, site usado para gerar rostos **ficticios** é informado no campo de referencias Blibliograficas.
+Personas feitas a partir do exemplo dado como Templete, site usado para gerar rostos **ficticios** é informado no campo de referencias Blibliograficas.
 
 ## Personas e Mapas de Empatia
 
@@ -400,11 +400,6 @@ etiquetas (conforme padronização do curso):
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+https://thispersondoesnotexist.com/
+https://generated.photos/
+https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/
