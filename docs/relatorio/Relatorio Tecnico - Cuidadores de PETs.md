@@ -256,6 +256,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 [Wireframes.pdf](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/files/8502731/Wireframes.pdf)
+![wireframes](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+
+
 
 Tela 1 - Tela Inicial de Apresetação do Site Pet Frieds 
 Tela 2 - Tela Pesquisa Pett Sitter (Cuidador pet)
