@@ -224,33 +224,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
 [Wireframes.pdf](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/files/8502731/Wireframes.pdf)
 ![wireframes](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
 
 
 
-Tela 1 - Tela Inicial de Apresetação do Site Pet Frieds 
-Tela 2 - Tela Pesquisa Pett Sitter (Cuidador pet)
-Tela 3 - Tela Pesquisa Hospedagem (Anfitrião Pet)
-Tela 4 - Tela Perfil Pet Sitter (Cuidador pet)
-Tela 5 - Tela Formulário solicitaçãode Serviço
-Tela 6 - Tela Perfil Pet (cachorro/Gato)
+Tela 1 - Tela Inicial de Apresetação do Site Pet Frieds <br>
+Tela 2 - Tela Pesquisa Pett Sitter (Cuidador pet)  <br>
+Tela 3 - Tela Pesquisa Hospedagem (Anfitrião Pet)  <br>
+Tela 4 - Tela Perfil Pet Sitter (Cuidador pet)  <br>
+Tela 5 - Tela Formulário solicitaçãode Serviço  <br>
+Tela 6 - Tela Perfil Pet (cachorro/Gato)  <br>
 
 
 
