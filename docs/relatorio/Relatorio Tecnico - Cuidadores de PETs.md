@@ -97,11 +97,7 @@ projeto poderá também ser uma forma de renda para muitas pessoas, localizaçã
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Personas feitas a partir do exmeplo dado como Templete, site usado para gerar rostos **ficticios** é informado no campo de referencias Blibliograficas.
 
 ## Personas e Mapas de Empatia
 
