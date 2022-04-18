@@ -221,9 +221,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Wireframes
 
 
-
+![wireframee](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/blob/master/docs/relatorio/images/47ed7c63-8b7a-4069-b3c2-90ed51ba40eb.jpg)
 ![wireframes](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
-<img src="images/Wireframes (2)-001.jpg" alt="Design">
+
 
 
 Tela 1 - Tela Inicial de Apresetação do Site Pet Frieds <br>
@@ -318,7 +318,7 @@ etiquetas (conforme padronização do curso):
 
 
 
- ![Exemplo de Wireframe](images/Github-Workflow.png)
+ ![Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
