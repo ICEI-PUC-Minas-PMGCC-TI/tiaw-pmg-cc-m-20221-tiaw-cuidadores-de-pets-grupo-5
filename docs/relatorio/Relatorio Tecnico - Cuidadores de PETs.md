@@ -51,7 +51,7 @@
 
 #Informações sobre o projeto
 
-O projeto surgiu por meio de um problema comum a donos de pet: a dificulade de ter econtrar uma pessoa que possa cuidar de seu pet, enquanto o dono não pode por estiar fora de casa devido contexo ou situação. Assim para estudar e explorar mais esse problema construimos a matriz CSD, entrevistas com um publico variado (donos e não donos de pet , pessoas que trabalham oferecendo serviços pet, desevolvemos personas que compartilhavam o iteresse de ter mais opçoes de serviço para cuidados pet e assim criamos a nossa plataforma Pet Friends focada nesse sgmento com proposito de multiplicar a oferta de serviços para pet , conectar clientes com colaboradoes , gerar empregos e ampliar e diversificar as opções disponiveis desses serviços. 
+O projeto surgiu por meio de um problema comum a donos de pet: a dificuldade de encontrar pessoas para ficar responssável por cuidar do pet, enquanto o dono não puder, por razão de algum contexo ou alguma situação( trabalho ,viagem, imprevistos). Assim para analisar e explorar mais esse problema construimos uma matriz CSD, realizamos entrevistas com um público variado - donos e não donos de pet e pessoas que trabalham oferecendo serviços pet. Desevolvemos personas interessadas em ter mais opções de serviços para cuidados pets. Assim criamos a nossa plataforma Pet Friends, focada nesse sgmento com propósito de multiplicar a oferta de serviços para pets , conectar clientes com colaboradoes , gerar empregos e diversificar as opções de serviços pets disponíveis. 
 
 
 
@@ -61,7 +61,7 @@ O projeto surgiu por meio de um problema comum a donos de pet: a dificulade de t
    O mundo está mudando e as nossas necessidades também.<br>
    Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
 Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!<br>
-   Nossa plataforma servirá como uma ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
+   Nossa plataforma tem como finalidade ser ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
 Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você! <br>
    Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
 
