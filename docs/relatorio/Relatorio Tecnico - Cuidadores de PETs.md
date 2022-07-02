@@ -329,7 +329,18 @@ etiquetas (conforme padronização do curso):
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para o Desenvolvimento do Site utilizamos as tecnologias:
+
+>HTML
+>CSS
+>JavaScript
+>BootStrap
+>JSON
+
+
+
+
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
