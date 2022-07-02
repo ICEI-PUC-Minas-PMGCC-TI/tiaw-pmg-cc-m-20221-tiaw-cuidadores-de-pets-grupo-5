@@ -1,5 +1,5 @@
 # Informações do Projeto
-Somos a Pets Friends uma plataforma Web que oferece serviços pets variados. Nosso objetivo e concatenar pessoas serviços, e estabelecimentos ideais para atender as necessidade iideais dos pets buscadas por seus donos.  
+Somos a Pets Friends uma plataforma Web que oferece serviços pets variados. Nosso objetivo e concatenar pessoas, serviços e estabelecimentos ideais para atender as necessidade ideais dos pets, buscadas por seus donos.  
 
 `Ciência da Computação` 
 
