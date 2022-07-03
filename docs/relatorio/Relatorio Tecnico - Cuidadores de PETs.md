@@ -57,12 +57,12 @@ O projeto surgiu por meio de um problema comum a donos de pet: a dificuldade de 
 
 # Introdução
 
-   O mundo está mudando e as nossas necessidades também.<br>
-   Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
+O mundo está mudando e as nossas necessidades também.<br>
+Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
 Visando ajuda-lós nessa situação , nós desenvolvemos um projeto para conectarmos os donos a pessoas interessadas em oportunidades de negócios no quesito , prestação de serviços pets <br>
-   Nossa plataforma tem como intuito simplicar e facilitar a interação das relações de negócio entre os donos de pets e presetadores de serviço! 
+Nossa plataforma tem como intuito simplicar e facilitar a interação das relações de negócio entre os donos de pets e presetadores de serviço! 
 Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você! <br>
-   Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
+Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
  <br>
 Fonte:
 <br>
@@ -91,7 +91,12 @@ Fonte:
 
 ## Objetivos
 
-Desta forma, nós propomos uma site em que donos de pets e cuidadores poderão se encontrar de forma efetiva, o nosso trabalho procura realizar uma conexão entre os 2 usuários. Nessa plataforma, os donos solicitaram os serviços que desejam e os cuidadores terão as oportunidades que desejam. Aqui, em Pets Friends, os donos encontrarão pessoas qualificadas e confiáveis que olharão seus pets com os devidos cuidados e os cuidadores poderão realizar quais serviços se interessarem em torno de sua própria disponibilidade.
+-Desenvolver uma página web responsiva destinada a donos de pets que poderam encontrar uma variedade de serviços para seus animais , e aos nossso  colaboradores que poderão se encontrar diversas ofertas de serviços para prestarem de acordo com o seu interesse e sua qualificação.
+
+Objetivo Específico:
+<br>
+-Ampliar a oferta de serviços de segmento pet através de um plataforma digital 
+-Gerar emprego voltado para o segmento Pet
 
 ## Justificativa
 
@@ -99,22 +104,22 @@ O que foi essencial para o compreendimento e realização desse projeto foi ente
 
 ## Público-Alvo
 
-O público-alvo de nosso projeto será algo bem abrangente em vários aspectos, na parte dos cliente que irão procurar o serviço será
-pessoas que possuem pet, mais especificamente cães e gatos, temos que ter em mente que poderá ser pessoas de várias faixas etárias, 
-escolaridades diversas, faixa de renda também não definida pois não é um serviço muito caro (tendo em vista o caso médio, onde o 
-cliente não precisa do serviço casualmente), classe socialtambém diversa pois vemos uma quantidade de pessoas com pet enorme 
-independente da classe social, localização será mais focada em residentes em capitais e regiões metropolitanas. Na parte dos prestadores
-de serviço, a faixa etária será pessoas maiores de 18 anos, escolaridades diversas, faixa de renda irrelevante também, visto que nosso 
-projeto poderá também ser uma forma de renda para muitas pessoas, localização igual a de nossos clientes.
+O público-alvo de nosso projeto pode ser definido em dois tipos.
+-Cliente 
+<br>
+Pessoas com idade acima de 18 anos, sexo indiferente, que possuem pet(s), mais especificamente cães e gatos.  
+Escolaridades, faixa de renda e classe social diversa.Residentes em capitais e regiões metropolitanas. 
+<br>
+-Prestadores de serviço
+<br>
+Pessoas de faixa etária também acima de 18 anos, sexo indiferente, escolaridades diversas com  faixa de renda e classe social varável e que possue alguma especialização, certificação ou experiência no segmento de prestação de serviço Pet. Residentes em capitais e regiões metropolitanas.
 
  
 # Especificações do Projeto
 
-Personas feitas a partir do exemplo dado como Templete, site usado para gerar rostos **ficticios** é informado no campo de referencias Blibliograficas.
-
 ## Personas e Mapas de Empatia
 
-**TODAS AS PERSONAS FORAM CRIADAS A PARTIR DE ALGORITIMOS, PORTANTO NÃO EXISTE ESTAS PESSOAS, <BR>QUALQUER SEMELHANÇA É MERA COINCIDENCIA**
+**TODAS AS PERSONAS FORAM CRIADAS A PARTIR DE ALGORITIMOS, PORTANTO NÃO EXISTE ESTAS PESSOAS
 
 <img src="images/Persona 1 (2).png">
 <img src="images/Persona 1.png">
