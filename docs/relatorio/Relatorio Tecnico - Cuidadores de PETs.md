@@ -105,10 +105,12 @@ O que foi essencial para o compreendimento e realização desse projeto foi ente
 ## Público-Alvo
 
 O público-alvo de nosso projeto pode ser definido em dois tipos.
+<br>
+<br>
 -Cliente 
 <br>
-Pessoas com idade acima de 18 anos, sexo indiferente, que possuem pet(s), mais especificamente cães e gatos.  
-Escolaridades, faixa de renda e classe social diversa.Residentes em capitais e regiões metropolitanas. 
+Pessoas com idade acima de 18 anos, sexo indiferente, que possuem pet(s), mais especificamente cães e gatos.Escolaridades, faixa de renda e classe social diversa.Residentes em capitais e regiões metropolitanas. 
+<br>
 <br>
 -Prestadores de serviço
 <br>
@@ -129,7 +131,7 @@ Pessoas de faixa etária também acima de 18 anos, sexo indiferente, escolaridad
 
 ## Histórias de Usuários
 
-
+Através da análise das personas, foram identificadas as seguintes histórias de usuários:
 -------------------------------------------------------------------------------------------------------
 |  Eu como 'persona'... |           quero/preciso...          |           para que/pois...             |
 |-----------------------|-------------------------------------|----------------------------------------|
@@ -160,14 +162,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|---------------------------------------------|------------|
 |RF-001| Cadastro de Usuário                         | ALTA       | 
 |RF-002| Cadastros de Colaboradores                  | ALTA       |
-|RF-003| Cadastro de Pedido                          | ALTA       |
-|RF-004| Login Usuário                               | ALTA       |
-|RF-005| Login Colaborador                           | ALTA       |
-|RF-006| Sistema de Busca de Pet Sitter e Hospedagem | ALTA       |
-|RF-007| Armazenamento de dados por web Local Storage| ALTA       |
-|RF-008| Perfil Usuário                              | ALTA       |
-|RF-009| Perfil Pet Sitter                           | ALTA       |
-|RF-010| Perfil de Anfitrião                         | ALTA       |
+|RF-003| Login Usuário                               | ALTA       |
+|RF-004| Login Colaborador                           | ALTA       |
+|RF-005| Sistema de Busca de Pet Sitter e Hospedagem | ALTA       |
+|RF-006| Armazenamento de dados por web Local Storage| ALTA       |
+|RF-007| Perfil Usuário                              | ALTA       |
+|RF-008| Perfil Colaborador                          | ALTA       |
 ------------------------------------------------------------------
 
 
@@ -180,30 +180,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |       | um dispositivos móveis                     |            |
 |RNF-002| Sistema deve ser multiplataforma           | ALTA       |
 |       | (Windows/Linux/etc)                        |            |
-|RNF-003| Seleção e introdução de serviços na        | ALTA       |
-|       | página inicial                             |            |
-|RNF-004| Sistema de desativação de conta (exceto    | ALTA       |
+|RNF-003| Sistema de desativação de conta (exceto    | ALTA       |
 |       | donos de pet) por inatividade após         |            |
 |       | [3] meses sem uso                          | ALTA       |
-|RNF-005| Disponibilidade para os usuários           | ALTA       |
+|RNF-004| Disponibilidade para os usuários           | ALTA       |
 |       | customizarem os seus perfis a              |            |
 |       | qualquer momento                           |            |
-|RNF-006| Padronização das cores do site             | MÉDIA      |
-|RNF-007| Deve processar requisições do usuário em   | MÉDIA      |
+|RNF-005| Padronização das cores do site             | MÉDIA      |
+|RNF-006| Deve processar requisições do usuário em   | MÉDIA      |
 |       | no máximo 3s                               |            |
-|RNF-008| Limitar tempo máximo de resposta do site   | MÉDIA      |
+|RNF-007| Limitar tempo máximo de resposta do site   | MÉDIA      |
 |       | (120s) antes de pedir para atualizar a     |            |
 |       | página novamente                           |            |
-|RNF-009| Histórico de serviços anteriores           | MÉDIA      | 
+|RNF-008| Histórico de serviços anteriores           | MÉDIA      | 
 |       | (Cuidadores que já presteram serviço)      |            |
-|RNF-010| Calcular automaticamente o valor           | MÉDIA      |
+|RNF-009| Calcular automaticamente o valor           | MÉDIA      |
 |       | recomendado pelo serviço, com os dados do  |            |
 |       | tamanho, quantidade e necessidades do pet  |            |
-|RNF-011| Verificação e confirmação mensal pessoais  | MÉDIA      |
-|       | do usuário e dos colaboradores             |            |
-|RNF-012| Fixar o HUD superior com atalhos e campo   | BAIXA      |
-|       | de busca                                   |            |
-|RNF-013| Processar login dos usuários em menos de 5s| BAIXA      |
+|RNF-010| Processar login dos usuários em menos de 5s| BAIXA      |
 ------------------------------------------------------------------
 
 ## Restrições
@@ -338,22 +332,29 @@ etiquetas (conforme padronização do curso):
 
  ![Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
+
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+.
 
 ## Tecnologias Utilizadas
 
 Para o Desenvolvimento do Site utilizamos as tecnologias:
-
+Desenvolvimento do Site
 >HTML
 >CSS
 >JavaScript
+
+Para a utilização do localStorage e manipulação de seus valores:
 >BootStrap
->JSON
+>Ajax;
+>BootStrap;
+
+Para Hospedagem
+>Replit
+
 
 
 
