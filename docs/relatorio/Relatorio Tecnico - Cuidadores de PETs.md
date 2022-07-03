@@ -377,7 +377,93 @@ etiquetas (conforme padronização do curso):
 
 # Projeto da Solução
 
-.
+Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas. 
+
+## Arquitetura da Solução
+
+### Diagrama de Componentes 
+
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+![arquitetura](https://user-images.githubusercontent.com/80927829/177060407-98ba432a-3fbd-49b3-ab0b-e4d1fcaefd63.png)
+Figura 1 - Arquitetura do Site.
+
+A solução implementada conta com os seguintes módulos: 
+
+ - Navegador - Interface básica do sistema  
+
+      -Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema. 
+
+      -Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:  
+
+- Comentários - registro de opiniões dos usuários sobre os serviços anteriores 
+
+Perfis - lista de usuários prestadores de serviço 
+
+Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
+
+### Hospedagem 
+
+O site utiliza a plataforma do Github como ambiente de hospedagem do site do projeto.
+
+### Template do Site 
+
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado, conforme Figura 2. 
+![template](https://user-images.githubusercontent.com/80927829/177060527-f8256991-b987-4528-8aec-d83a9aa0b6c4.png)
+Figura 2 - Template padrão do site 
+
+#### composto pelos seguintes layouts:  
+
+Tela Home 
+Tela Cadastro 
+Tela Login 
+Tela Perfil do pet 
+Tela Perfil do PetFriend 
+Tela Busca 
+Tela Chat 
+Tela Calendário  
+
+A responsividade segue o padrão do Bootstrap
+
+### Tela Home 
+
+Tela que apresenta os nossos serviços descrevendo os principais e dispondo de comentários de alguns usuários
+![Home](https://user-images.githubusercontent.com/80927829/177060504-bad584d5-8cad-4b93-8c13-77ba24228bbf.png)
+
+### Tela Cadastro 
+
+Este layout é utilizado para a criação de uma nova conta para o usuário.
+![cadastro](https://user-images.githubusercontent.com/80927829/177060495-907cda49-c425-4240-9a2a-1dba22b75201.png)
+
+### Tela Login 
+
+Este layout é utilizado para entrar em uma conta anteriormente criada pelo usuário.
+![login](https://user-images.githubusercontent.com/80927829/177060509-649e965f-a930-401b-8f89-13252b44e00a.png)
+
+### Tela Perfil do pet 
+
+Este layout é utilizado para o perfil do pet, mostrando todos seus dados registrados.
+![perfilPet](https://user-images.githubusercontent.com/80927829/177060512-24a19c2c-ca7e-4af5-ab58-fa5ffd84b40b.png)
+
+### Tela Perfil do PetFriend 
+
+Este layout é utilizado para o perfil do PetFriend (quem presta o serviço de cuidado pet), mostrando seus dados públicos registrados.
+![perfilPetFriend](https://user-images.githubusercontent.com/80927829/177060526-63122cad-54c1-484d-8bb7-7843c7ed20e4.png)
+
+### Tela Busca 
+
+Este layout é utilizado para procurar um PetFriend.
+![busca](https://user-images.githubusercontent.com/80927829/177060493-3a24c886-12bd-4d62-9f97-13d95890f84f.png)
+
+### Tela Chat 
+
+Este layout é utilizado que o usuário se comunique e marque o seu pedido com o PetFriend.
+![chat](https://user-images.githubusercontent.com/80927829/177060501-888e053a-e27b-4a2c-b0b1-5f417d6cdf00.png)
+
+### Tela Calendário 
+
+Este layout é utilizado para qualquer usuário da plataforma ser capaz de veras datas em que o PetFriends está disponível.
+![calendario](https://user-images.githubusercontent.com/80927829/177060500-00a9fa8b-f0da-4d7b-8ef4-34b5945a9173.png)
+
 
 ## Tecnologias Utilizadas
 
