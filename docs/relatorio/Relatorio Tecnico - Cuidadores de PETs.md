@@ -50,7 +50,7 @@ Somos a Pets Friends uma plataforma Web que oferece serviços pets variados. Nos
 
 #Informações sobre o projeto
 
-O projeto surgiu por meio de um problema comum a donos de pet: a dificuldade de encontrar pessoas para ficar responssável por cuidar do pet, enquanto o dono não puder, por razão de algum contexo ou alguma situação( trabalho ,viagem, imprevistos). Assim para analisar e explorar mais esse problema construimos uma matriz CSD, realizamos entrevistas com um público variado - donos e não donos de pet e pessoas que trabalham oferecendo serviços pet. Desevolvemos personas interessadas em ter mais opções de serviços para cuidados pets. Assim criamos a nossa plataforma Pet Friends, focada nesse sgmento com propósito de multiplicar a oferta de serviços para pets , conectar clientes com colaboradoes , gerar empregos e diversificar as opções de serviços pets disponíveis. 
+O projeto surgiu por meio de um problema comum a donos de pet: a dificuldade de encontrar pessoas para ficar responssável por cuidar do pet, enquanto o dono não puder, por razão de algum contexo ou alguma situação( trabalho ,viagem, imprevistos). Assim para analisar e explorar mais esse problema construimos uma matriz CSD, realizamos entrevistas com um público variado - donos e não donos de pet e pessoas que trabalham oferecendo serviços pet. Desevolvemos personas que apresentavam o interresse em comum por serviços de cuidados pets. Assim criamos a nossa plataforma Pet Friends, focada nesse sgmento com propósito de multiplicar a oferta de serviços para pets , conectar clientes com colaboradoes e gerar empregos. 
 
 
 
@@ -59,10 +59,16 @@ O projeto surgiu por meio de um problema comum a donos de pet: a dificuldade de 
 
    O mundo está mudando e as nossas necessidades também.<br>
    Ao olhar para trás, o tempo de pandemia, vemos que as pessoas ao se sentirem só e isoladas recorreram à adoção de pets! Uma pesquisa feita por Doghero e Petlovers mostra que cerca de 54% da população brasileira adotou algum tipo de pet durante o tempo de pandemia. Porém, agora que o cotidiano está voltando a ser agitado como antes, o tempo que levamos fora de casa voltou a crescer e o tempo para ficar em casa com nossos bichinhos, a diminuir.<br>
-Visando ajudar os donos a ficarem mais despreocupados com seus pets ficando sozinhos, nós começamos um projeto para conectarmos vocês, donos de pets, com pessoas que amam cuidar de pets e estão esperando seu chamado para atender em sua porta!<br>
-   Nossa plataforma tem como finalidade ser ponte para vocês usuários, facilitando o contato entre donos de pet e cuidadores! 
+Visando ajuda-lós nessa situação , nós desenvolvemos um projeto para conectarmos os donos a pessoas interessadas em oportunidades de negócios no quesito , prestação de serviços pets <br>
+   Nossa plataforma tem como intuito simplicar e facilitar a interação das relações de negócio entre os donos de pets e presetadores de serviço! 
 Você passa tempo demais fora de casa, por qualquer que seja o motivo e se preocupa em deixar seu pet sozinho? Agora basta se tornar um -usuário- e te ajudaremos a encontrar o cuidador mais carinhoso perto de você! <br>
    Sabe aquela viagem que você quer fazer mas não pode deixar seu animalzinho em casa sozinho?  Problema resolvido!
+ <br>
+Fonte:
+<br>
+1.<a href="https://emais.estadao.com.br/noticias/comportamento,54-dos-brasileiros-adotaram-animais-de-estimacao-na-pandemia,70003818927">Estadão</a>
+
+
 
 
 
@@ -72,7 +78,15 @@ Pesquisas têm mostrado um aumento do número de brasileiros contratando serviç
 
 A dificuldade de encontrar pessoas qualificadas e confiáveis para cuidar do pet, comprometendo a garantir a preservação física e mental do animal, quanto aos cuidados básicos (alimentação,  carinho, banho e tosa ,entretenimento) e especializados  (atividade física, medicação controlada, alimentação restritiva…) coisas que são de fato importante para casa dono de pet, têm tonado-se um preocupação crescente. Outras dificuldades se apresentam, como a de encontrar: cuidadores próximos a região que o dono mora, encontrar cuidadores nas datas específicas ( temporada de férias), oferta de cuidadores disponíveis em circunstâncias emergenciais, cuidadores qualificados para cuidar de cães com necessidades especiais ( paralítico, cegos, surdos,diabéticos, e  problemas cardíacos). <br>
 
-Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br> 
+Apresentados o problemas , analisamos possíveis soluções a fim de facilitar a conexão entre cliente e colabores tornando a experiência dos usuário e dos prestador de serviços melhor. <br>
+
+<br>
+Fonte:
+<br>
+1.<a href="https://rnpet.com.br/mercado-pet/apesar-da-pandemia-mercado-pet-cresce-de-acordo-com-as-principais-agencias-de-pesquisa-do-setor/">Revista NP</a>
+<br>
+2.<a href="https://www.correiobraziliense.com.br/app/noticia/eu-estudante/trabalho-e-formacao/2020/02/16/interna-trabalhoeformacao-2019,828534/aumenta-o-numero-de-cuidadores-de-cachorros-conheca-os-pet-sitters.shtml">Correio Braziliense</a>
+
 
 
 ## Objetivos
