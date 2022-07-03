@@ -223,7 +223,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
-![Fluxo de usuário](https://user-images.githubusercontent.com/88465694/163736368-96305fb0-47cd-47e0-a499-00a5f97b0e88.png)
+![Fluxo de Usuário](https://user-images.githubusercontent.com/80927829/177060531-1ab7b39c-2e89-49e6-94fb-d0b8419d882c.png)
 Figura 1- Fluxo de telas do usuário.
 
 
@@ -235,55 +235,55 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ● Conteúdo - apresenta o conteúdo da tela em questão;
 
-![wireframes](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![wireframe](https://user-images.githubusercontent.com/80927829/177060527-f8256991-b987-4528-8aec-d83a9aa0b6c4.png)
 Figura 2 - Estrutura padrão do site.
 
 ### Tela Home
 
 Tela que apresenta os serviços disponíveis e apresentando comentários de alguns usuários mais recentes.
-![Tela Home](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![Home](https://user-images.githubusercontent.com/80927829/177060504-bad584d5-8cad-4b93-8c13-77ba24228bbf.png)
 Figura 3 - Tela Inicial.
 
 ### Tela Cadastro
 
 Página direcionada para a criação de uma nova conta para o usuário.
-![Tela de Cadastro](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![cadastro](https://user-images.githubusercontent.com/80927829/177060495-907cda49-c425-4240-9a2a-1dba22b75201.png)
 Figura 4 - Tela de Cadastro de Usuário.
 
 ### Tela Login
 
 Página direcionada para que o usuário possa entrar em uma conta criada anteriormente pelo usuário.
-![Tela de Login](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![login](https://user-images.githubusercontent.com/80927829/177060509-649e965f-a930-401b-8f89-13252b44e00a.png)
 Figura 5 - Tela de Login de Usuário.
 
 ### Tela Perfil do pet
 
 Aqui os PetFriends poderão encontrar os dados dos Pets editados por seus donos, contando com nome, apelido, raça, porte, entre outros detalhes.
-![Tela do Perfil do Pet](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![perfilPet](https://user-images.githubusercontent.com/80927829/177060512-24a19c2c-ca7e-4af5-ab58-fa5ffd84b40b.png)
 Figura 6 - Tela de Perfil do Pet.
 
 ### Tela Perfil do PetFriend
 
 Aqui todos poderão ver dados públicos dos PetFriends, como nome, localidade, experiencia e comentários com avaliação de seus serviços anteriores.
-![Tela do Perfil do PetFriend](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![perfilPetFriend](https://user-images.githubusercontent.com/80927829/177060526-63122cad-54c1-484d-8bb7-7843c7ed20e4.png)
 Figura 7 - Tela do Perfil do PetFriend.
 
 ### Tela Busca
 
 Nesta página os usuários poderão realizar uma busca por PetFriend filtrada por região ou tipo de serviço.
-![Tela de Busca](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![busca](https://user-images.githubusercontent.com/80927829/177060493-3a24c886-12bd-4d62-9f97-13d95890f84f.png)
 Figura 8 - Tela de Busca por serviço.
 
 ### Tela Chat
 
 Aqui os usuários poderão entrar em contato com o PetFriend que eles se interessarem, podendo realizar o pedido e especificações caso queira.
-![Tela de Chat](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![chat](https://user-images.githubusercontent.com/80927829/177060501-888e053a-e27b-4a2c-b0b1-5f417d6cdf00.png)
 Figura 9 – Tela do Chat dos usuários
 
 ### Tela Calendário
 
 Esta tela irá mostrar a disponibilidade do PetFriend.
-![Tela do Calendário](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+![calendario](https://user-images.githubusercontent.com/80927829/177060500-00a9fa8b-f0da-4d7b-8ef4-34b5945a9173.png)
 Figura 10 - Tela do Caléndario.
 
 
