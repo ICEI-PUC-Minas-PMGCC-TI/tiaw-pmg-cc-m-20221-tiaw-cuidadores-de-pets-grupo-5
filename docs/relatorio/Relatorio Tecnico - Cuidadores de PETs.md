@@ -217,34 +217,73 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## User Flow
 
-![Fluxo de usuário](https://user-images.githubusercontent.com/88465694/163736368-96305fb0-47cd-47e0-a499-00a5f97b0e88.png)
+O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
+![Fluxo de usuário](https://user-images.githubusercontent.com/88465694/163736368-96305fb0-47cd-47e0-a499-00a5f97b0e88.png)
+Figura 1- Fluxo de telas do usuário.
 
 
 ## Wireframes
 
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 2 blocos, descritos a seguir. São eles:
 
-![wireframee](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-cuidadores-de-pets-grupo-5/blob/master/docs/relatorio/images/47ed7c63-8b7a-4069-b3c2-90ed51ba40eb.jpg)
+● Navbar- local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+● Conteúdo - apresenta o conteúdo da tela em questão;
+
 ![wireframes](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 2 - Estrutura padrão do site.
 
+###Tela Home
 
+Tela que apresenta os serviços disponíveis e apresentando comentários de alguns usuários mais recentes.
+![Tela Home](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 3 - Tela Inicial.
 
-Tela 1 - Tela Inicial de Apresetação do Site Pet Frieds <br>
-Tela 2 - Tela Pesquisa Pett Sitter (Cuidador pet)  <br>
-Tela 3 - Tela Pesquisa Hospedagem (Anfitrião Pet)  <br>
-Tela 4 - Tela Perfil Pet Sitter (Cuidador pet)  <br>
-Tela 5 - Tela Formulário solicitaçãode Serviço  <br>
-Tela 6 - Tela Perfil Pet (cachorro/Gato)  <br>
+###Tela Cadastro
 
+Página direcionada para a criação de uma nova conta para o usuário.
+![Tela de Cadastro](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 4 - Tela de Cadastro de Usuário.
+
+###Tela Login
+
+Página direcionada para que o usuário possa entrar em uma conta criada anteriormente pelo usuário.
+![Tela de Login](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 5 - Tela de Login de Usuário.
+
+###Tela Perfil do pet
+
+Aqui os PetFriends poderão encontrar os dados dos Pets editados por seus donos, contando com nome, apelido, raça, porte, entre outros detalhes.
+![Tela do Perfil do Pet](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 6 - Tela de Perfil do Pet.
+
+###Tela Perfil do PetFriend
+
+Aqui todos poderão ver dados públicos dos PetFriends, como nome, localidade, experiencia e comentários com avaliação de seus serviços anteriores.
+![Tela do Perfil do PetFriend](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 7 - Tela do Perfil do PetFriend.
+
+###Tela Busca
+
+Nesta página os usuários poderão realizar uma busca por PetFriend filtrada por região ou tipo de serviço.
+![Tela de Busca](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 8 - Tela de Busca por serviço.
+
+###Tela Chat
+
+Aqui os usuários poderão entrar em contato com o PetFriend que eles se interessarem, podendo realizar o pedido e especificações caso queira.
+![Tela de Chat](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 9 – Tela do Chat dos usuários
+
+###Tela Calendário
+
+Esta tela irá mostrar a disponibilidade do PetFriend.
+![Tela do Calendário](https://user-images.githubusercontent.com/91280918/163738789-cd8ca904-243e-4815-b1ca-84c7c3635384.jpg)
+Figura 10 - Tela do Caléndario.
 
 
 # Metodologia
