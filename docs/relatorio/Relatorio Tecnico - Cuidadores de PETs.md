@@ -353,7 +353,7 @@ Para a utilização do localStorage e manipulação de seus valores:
 >BootStrap;
 
 Para Hospedagem
->Replit
+>Heroku
 
 
 
