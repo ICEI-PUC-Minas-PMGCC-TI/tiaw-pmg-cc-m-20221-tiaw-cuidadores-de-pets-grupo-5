@@ -484,45 +484,112 @@ Github
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados. 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+## Plano de Testes de Software 
 
-## Plano de Testes
+Requisitos para realização do teste: 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Site publicado na Internet 
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Navegador da Internet - Chrome, Firefox ou Edge 
 
-## Ferramentas de Testes (Opcional)
+Conectividade de Internet para acesso às plataformas (APIs) 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ 
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir. 
+-------------------------------------------------------------------------------------------------------
+|  Caso de Teste        |                    CT-01 - Visualizar notícias principais                    |
+|-----------------------|------------------------------------------------------------------------------|
+|      Requisitos       | RF-01 - O site deve apresentar na página principal notícias dinâmicas        |
+|      Associados       | obtidas por meio de canais de notícias da Internet (API)                     |
+|                       | RF-02 - O site deve apresentar, para cada notícia, uma imagem                |
+|                       | correspondente ao assunto apresentado (thumbnail)                            |
+|-----------------------|------------------------------------------------------------------------------|
+|      Objetivo         | Verificar se a carga de notícias está acontecendo corretamente.              |
+|      do Teste         |                                                                              |
+|-----------------------|------------------------------------------------------------------------------|
+|                       | 1) Acessar o Navegador                                                       |
+|        Passos         | 2) Informar o endereço do Site                                               |
+|                       | 3) Visualizar a página principal                                             | 
+|                       | 4) Verificar o processo de carga                                             |
+|-----------------------|------------------------------------------------------------------------------|
+|                       | Deve haver uma requisição AJAX no painel NETWORK das ferramentas             |
+|       Critérios       | do Desenvolvedor (recurso do Navegador).                                     |
+|       de Êxito        | As notícias devem ser exibidas corretamente no site, sendo necessárias       |
+|                       | pelo menos 3 notícias sendo apresentadas.                                    |
+|                       | As notícias devem trazer imagens visíveis associadas ao assunto da notícia.  |        
+--------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------
+|  Caso de Teste        |                    CT-02 - Visualizar detalhes da notícia                    |
+|-----------------------|------------------------------------------------------------------------------|
+|      Requisitos       | RF-03 - O site deve permitir ao usuário visualizar o texto completo da       |
+|      Associados       | notícia com todos os detalhes da publicação                                  |
+|-----------------------|------------------------------------------------------------------------------|
+|      Objetivo         | Verificar se as notícias estão sendo apresentadas completamente              |
+|      do Teste         | na página de leitura da notícia                                              |
+|-----------------------|------------------------------------------------------------------------------|
+|                       | 1) Acessar o Navegador                                                       |
+|        Passos         | 2) Informar o endereço do Site                                               |
+|                       | 3) Visualizar a página principal                                             | 
+|                       | 4) Clicar em uma notícia                                                     |
+|-----------------------|------------------------------------------------------------------------------|
+|       Critérios       | A página deve apresentar o título da notícia, imagem de destaque da notícia, |
+|       de Êxito        | data da notícia, autor da notícia e o texto completo da notícia              | 
+--------------------------------------------------------------------------------------------------------
+
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os resultados obtidos nos testes de software realizados são descritos na Tabela a seguir.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+## Testes de Usabilidade 
 
+Página Inicial: Gostou e se interessou com a intenção de ser cadastrado 
+
+Perfil: Alteração de dados do perfil 
+
+Página Sobre: Achou muito legal os objetivos e o pets com a interface, enviou uma sugestão e achou muito legal o layout mostrando a equipe, mas, não compartilhou a interface. 
+
+## Plano de testes
+
+-------------------------------------------------------------------------------------------------------
+|         Item          |              Condições              |          Resultado Esperado            |
+|-----------------------|-------------------------------------|----------------------------------------|
+|        Home           | Pré Condições:                      |      Devem ser exibido o que é o       |
+|                       | Deve haver conexão de Internet      |      projeto, vídeos e curso básico.   |
+|                       | Passos:                             |                                        |
+|                       | Abrir o site do sistema             |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|                       | Pré Condições:                      |      Devem ser exibido o que é o       |
+|       Conteúdos       | Deve haver conexão de Internet      |      destaques, aprendizado de         |
+|                       | Passos:                             |      libras para crianças.             |
+|                       | Abrir o site do sistema             |                                        |
+|                       | Clicar no botão “Conteúdos”         |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|                       | Pré Condições:                      |      Conter informações sobre o        |
+|       Sobre           | Deve haver conexão de Internet      |      site e seus criadores             |
+|                       | Passos:                             |      e desenvolvedores.                |
+|                       | Abrir o site do sistema             |                                        |
+|                       | Clicar no botão “Sobre”             |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|                       | Pré Condições:                      |      Aparecer o destaque com um        |
+|        Perfil         | Deve haver conexão de Internet      |      vídeo e notícias logo abaixo.     |
+|                       | Passos:                             |                                        |
+|                       | Abrir o site do sistema             |                                        |
+|                       | Clicar no botão “Perfil”            |                                        |
+|-----------------------|-------------------------------------|----------------------------------------|
+|                       | Pré Condições:                      |      Cadastrar e ter acesso as         |
+|        Cadastro       | Deve haver conexão de Internet      |      ferramentas do site.              |
+|                       | Passos:                             |                                        |
+|                       | Abrir o site do sistema             |                                        |
+|                       | Digitar um assunto na caixa de      |                                        |
+|                       | pesquisa                            |                                        |
+|                       | Pressionar o botão Pesquisar        |                                        |
+--------------------------------------------------------------------------------------------------------
 
 # Referências
 
